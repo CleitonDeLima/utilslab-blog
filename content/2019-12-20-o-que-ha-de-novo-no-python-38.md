@@ -53,7 +53,7 @@ print(f'{nome=}')
 >>> nome='python'
 ```
 
-Podemos ver que ao imprimir a variável com `=` é mostrado de um forma `variavel=valor`, isso ajuda na hora de depurar algum código.
+Podemos ver que ao imprimir a variável com `=` é mostrado `variavel=valor`, isso ajuda na hora de depurar algum código.
 
 Também é possível usar o operador _walrus_ com `f-string` de um jeito bem simples:
 
