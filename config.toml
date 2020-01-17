@@ -14,6 +14,8 @@ theme = "hyde"
 description = "Tudo sobre tecnologia"
 title = "UtilsLab blog"
 
+generate_rss = true
+
 [extra]
 # Put all your custom variables here
 hyde_links = [
