@@ -23,6 +23,7 @@ hyde_links = [
 ]
 hyde_sticky = false
 hyde_show_analytics = true
+hyde_datetime_format = "%d/%m/%Y"
 hyde_analytics_content = """
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139885373-1"></script>
 <script>
