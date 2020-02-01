@@ -39,8 +39,8 @@ if 'objetos' in dados:
 
 O código acima pode parece extenso. Para adicionar valores em uma lista é verificado primeiro se no dicionário a chave existe, isso pode parecer confuso e acaba sendo repetitivo quando se tem muitos casos como este.
 
-Uma solução para este "problema" é a utilização do dicionario `defaultdict`, uma subclasse de `dict` que já vem embutido no Python desde a versão 2.5, encontrado no módulo `collections`.
-Vamos reescrever o exemplo acima utilizado defaultdict.
+Uma solução para este "problema" é a utilização do dicionário `defaultdict`, uma subclasse de `dict` que já vem embutido no Python desde a versão 2.5, encontrado no módulo `collections`.
+Vamos reescrever o exemplo acima utilizando defaultdict.
 
 ```python
 from collections import defaultdict
