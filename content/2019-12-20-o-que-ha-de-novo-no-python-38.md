@@ -2,6 +2,9 @@
 title = "O que há de novo no python 3.8"
 date = 2019-12-20T12:00:00Z
 draft = false
+description = """
+Nessa versão surgem várias novidades. Entre elas estão, as expressões de atribuição, indicadores de parâmetros opcionais, novo especificador em f-strings, e muito mais.
+"""
 +++
 
 # Novidades no python 3.8!

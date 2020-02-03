@@ -2,6 +2,9 @@
 title = "Como usar o defaultdict no Python"
 date = 2020-02-01T01:00:00Z
 draft = false
+description = """
+Muitas vezes o uso excessivo de dicionários pode parecer confuso quando é preciso verificar se uma chave está contida nele. O defaultdict pode ajudar.
+"""
 +++
 
 Uma das coisas que torna o Python a ser uma linguagem de programação gostosa de se trabalhar é a utilização de dicionários (`dict`), objeto que representa uma estrutura de _chave/valor_.
